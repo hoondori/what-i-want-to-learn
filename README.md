@@ -4,9 +4,9 @@
 
 ## Reinforcement Learning
 - Continous RL
-  - Simple random search provides a competitive approach to reinforcement learning,2018 ([pdf](https://arxiv.org/pdf/1803.07055.pdf))([Blog](https://hackernoon.com/augmented-random-search-one-of-the-best-rl-algs-what-i-built-e0e3e765808a?fbclid=IwAR0ioGNcLxRAI3-esdwolxtLTd9LEEXtldn0Z4XcDhjbIPnocVbxImEjVDs))
+  - Simple random search provides a competitive approach to reinforcement learning,2018 ([pdf](https://arxiv.org/pdf/1803.07055.pdf))([blog](https://hackernoon.com/augmented-random-search-one-of-the-best-rl-algs-what-i-built-e0e3e765808a?fbclid=IwAR0ioGNcLxRAI3-esdwolxtLTd9LEEXtldn0Z4XcDhjbIPnocVbxImEjVDs))
 - Book
-  - Deep Reinforcement Learning Hands-On, Maxim Lapan, 2018 ([Buy](https://www.packtpub.com/big-data-and-business-intelligence/deep-reinforcement-learning-hands))
+  - Deep Reinforcement Learning Hands-On, Maxim Lapan, 2018 ([buy](https://www.packtpub.com/big-data-and-business-intelligence/deep-reinforcement-learning-hands))
 
 ---
 
@@ -19,7 +19,14 @@
 
 ## ML platform/framework
 - SageMaker
-  - [EdX] Amazon SageMaker: Simplifying Machine Learning Application Development ([Apply](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker))
+  - [EdX] Amazon SageMaker: Simplifying Machine Learning Application Development ([apply](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker))
+  - Amazon SageMaker Example ([code](https://github.com/awslabs/amazon-sagemaker-examples))
+  
+---
+
+## Programming skills
+- Visualization
+  - [DataCamp] Improving Your Visualizations in Python ([buy](https://www.datacamp.com/courses/improving-your-data-visualizations-in-python))
 
 
 
