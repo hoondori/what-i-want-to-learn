@@ -21,13 +21,16 @@
 - SageMaker
   - [EdX] Amazon SageMaker: Simplifying Machine Learning Application Development ([apply](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker))
   - Amazon SageMaker Example ([code](https://github.com/awslabs/amazon-sagemaker-examples))
-  
+
+- Tensorflow
+  - TF-Replicator: Distributed Machine Learning for Researchers,deepmind,2019 ([pdf](https://arxiv.org/pdf/1902.00465.pdf))
+
 ---
 
 ## Programming skills
 - Visualization
   - [DataCamp] Improving Your Visualizations in Python ([buy](https://www.datacamp.com/courses/improving-your-data-visualizations-in-python))
 
-
+--- 
 
 
