@@ -31,15 +31,17 @@
 
 - Ray
   - documentation/tutorial ([html](https://ray.readthedocs.io/en/latest/index.html))
+- Spark tuning
+  - Tuning and Debugging Apache Spark, databricks, 2015 ([video](https://youtu.be/kkOG_aJ9KjQ))
+  - Spark Performance Tuning, 2018 ([video](https://youtu.be/LtcPhcHAvLw))
 
 ---
 
 ## Programming skills
-- Visualization
-  - [DataCamp] Improving Your Visualizations in Python ([buy](https://www.datacamp.com/courses/improving-your-data-visualizations-in-python))
-
 --- 
-
+- Visualization for Data Science
+  - [DataCamp] Clustering methods with scipy ([buy](https://campus.datacamp.com/courses/clustering-methods-with-scipy/introduction-to-clustering?ex=1))
+  
 ## Explainable AI
 - Interpretable Machine Learning, Christoph Molnar, 2019 ([html](https://christophm.github.io/interpretable-ml-book/))
 
