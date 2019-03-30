@@ -24,17 +24,15 @@
 - SageMaker
   - [EdX] Amazon SageMaker: Simplifying Machine Learning Application Development ([apply](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker))
   - Amazon SageMaker Example ([code](https://github.com/awslabs/amazon-sagemaker-examples))
-
 - Tensorflow
   - Tensorflow Hub ([video](https://youtu.be/rirzJ-e68cw))
+- Distributed Tensorflow
   - TF-Replicator: Distributed Machine Learning for Researchers,deepmind,2019 ([pdf](https://arxiv.org/pdf/1902.00465.pdf))
-
 - Ray
   - documentation/tutorial ([html](https://ray.readthedocs.io/en/latest/index.html))
 - Spark tuning
-  - Tuning and Debugging Apache Spark, databricks, 2015 ([video](https://youtu.be/kkOG_aJ9KjQ))
-  - Spark Performance Tuning, 2018 ([video](https://youtu.be/LtcPhcHAvLw))
-
+  - The Internals of Spark SQL, Jacek Laskowski, ([html](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/))
+  
 ---
 
 ## Programming skills
